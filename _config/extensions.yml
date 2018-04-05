@@ -1,0 +1,6 @@
+---
+Name: silvercart-payment-heidelpay-extensions
+---
+SilvercartPaymentHeidelpay:
+  extensions:
+    ['SilvercartDataObjectMultilingualDecorator']

@@ -1,0 +1,21 @@
+de:
+  SilvercartPaymentHeidelpay:
+    DevModeInfo: "Diese Zahlungsart befindet sich im TEST-Modus."
+    EnterCreditCardData: "Kreditkarten-Daten"
+    NAME: "Heidelpay"
+    OrderConfirmationSubmitButtonTitle: "Kaufen & weiter zur Bezahlung"
+    PAYMENT_CHANNEL_CREDITCARD: "Kreditkarte"
+    TITLE: "Heidelpay"
+  SilvercartPaymentHeidelpayChannel:
+    ConfirmAndBuy: "Daten bestätigen und Kauf abschließen"
+    OrderConfirmationSubmitButtonTitle: "Kaufen & weiter zur Bezahlung"
+  SilvercartPaymentHeidelpayCreditCard:
+    AnyDateInFuture: "beliebiges Datum in der Zukunft"
+    CardNumber: "Kartennr."
+    CardType: "Kartentyp"
+    CardExpiryDate: "Ablaufdatum"
+    CVV: "CVV"
+    DevModeData: "Test-Kreditkarten-Daten"
+  SilvercartPaymentHeidelpayTransaction:
+    Status: "Status"
+    TransactionID: "Transaktions-ID"

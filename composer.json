@@ -1,0 +1,30 @@
+{
+	"name": "silvercart/payment-heidelpay",
+	"type": "silverstripe-module",
+	"description": "The Heidelpay payment module for SilverCart",
+	"homepage": "http://www.silvercart.org",
+	"license": "LGPL-3.0",
+	"keywords": ["silverstripe", "silvercart", "ecommerce", "shop", "webshop", "online shop", "payment"],
+	"authors": [
+		{
+			"name": "SilverCart",
+			"homepage": "http://www.silvercart.org"
+		},
+		{
+			"name": "pixeltricks",
+			"homepage": "http://www.pixeltricks.de"
+		}
+	],
+	"minimum-stability": "dev",
+	"prefer-stable": true,
+	"require": {
+		"php": ">=7.0.0",
+		"silvercart/silvercart": "~3.4",
+        "heidelpay/php-payment-api": "~1.4.1"
+	},
+	"extra": {
+        "expose": [
+            "client"
+        ]
+	}
+}
