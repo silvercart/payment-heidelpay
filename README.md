@@ -13,7 +13,7 @@ Heidelpay payment module for the SilverCart E-Commerce System
 1. composer require silvercart/payment-heidelpay
 
 ## Basic installation from scratch with composer
-1. composer create-project silverstripe/installer silvercart_demo 
+1. composer create-project silverstripe/installer silvercart_demo 3.6
 2. cd silvercart_demo 
 3. composer require silvercart/payment-heidelpay
 4. change the class definitions in mysite/code/Page.php to: 

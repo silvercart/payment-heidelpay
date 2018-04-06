@@ -4,7 +4,8 @@
 	"description": "The Heidelpay payment module for SilverCart",
 	"homepage": "http://www.silvercart.org",
 	"license": "LGPL-3.0",
-	"keywords": ["silverstripe", "silvercart", "ecommerce", "shop", "webshop", "online shop", "payment"],
+    "version": "1.0.0",
+	"keywords": ["silverstripe", "silvercart", "ecommerce", "shop", "webshop", "online shop", "payment", "heidelpay"],
 	"authors": [
 		{
 			"name": "SilverCart",
