@@ -19,7 +19,7 @@ use Heidelpay\PhpPaymentApi\Response;
  * @since 26.03.2018
  * @license see license file in modules root directory
  */
-class SilvercartPaymentHeidelpayNotification extends Object {
+class SilvercartPaymentHeidelpayNotification extends SS_Object {
 
     /**
      * This method will be called by the distributoing script and receives the
